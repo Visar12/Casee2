@@ -107,8 +107,8 @@ namespace Case2
                             k1.Getname(e1, name);
                             Martin.Getname(e1, name);
                             Thomas.Getname(e1, name);
-
-                        }
+                        Henrik.Getname(e1, name);
+                    }
 
 
 
